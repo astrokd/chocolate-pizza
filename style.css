@@ -1,6 +1,9 @@
 #blogTitle {
     float: left;
 }
+#social {
+    float: right;
+}
 /* code foud on https://stackoverflow.com/questions/35610251/style-hr-with-image for hr styling */
 #hrFooter { 
     background: url('img/small-logo.png') no-repeat top center;
