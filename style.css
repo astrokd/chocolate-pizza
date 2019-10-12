@@ -1,6 +1,9 @@
 #blogTitle {
     float: left;
 }
+#blogTitle section {
+    float: right;
+}
 #social {
     float: right;
 }
